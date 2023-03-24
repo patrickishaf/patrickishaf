@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Peter Dookway ====================================================================================================================================  Full-stack Blockchain Engineer ------------------------------  I'm big on server-side architectures - micro service and event-driven architectures especially, I participate in blockchain hackathons from time to time and I'm interested in open-source  * 🌍  I'm based in Lagos * ✉️  You can contact me at [patrickishaf@gmail.com](mailto:patrickishaf@gmail.com) * 🚀  I'm currently working on [Matrix Blog](http://agentsmith.netlify.app) * 🧠  I'm learning Golang for server-side development * 🤝  I'm open to collaborating on blockchain projects and open-source Typescript/javascript projects * ⚡  I'm secretly The Martian Manhunter but don't tell anyone
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Peter Dookway
+
+### Software Engineer
+
+I'm big on server-side architectures - micro service and event-driven architectures especially, I participate in blockchain hackathons from time to time and I'm interested in open-source  * 🌍  I'm based in Lagos * ✉️  You can contact me at [patrickishaf@gmail.com](mailto:patrickishaf@gmail.com) * 🚀  I'm currently working on [Matrix Blog](http://agentsmith.netlify.app) * 🧠  I'm learning Golang for server-side development * 🤝  I'm open to collaborating on blockchain projects and open-source Typescript/javascript projects * ⚡  I'm secretly The Martian Manhunter but don't tell anyone
 
 ### Skills  
 
